@@ -1,0 +1,17 @@
+C:\Users\effy\source\repos\Invest4U\Invest4U\bin\Debug\netcoreapp3.1\Invest4U.exe
+C:\Users\effy\source\repos\Invest4U\Invest4U\bin\Debug\netcoreapp3.1\Invest4U.deps.json
+C:\Users\effy\source\repos\Invest4U\Invest4U\bin\Debug\netcoreapp3.1\Invest4U.runtimeconfig.json
+C:\Users\effy\source\repos\Invest4U\Invest4U\bin\Debug\netcoreapp3.1\Invest4U.runtimeconfig.dev.json
+C:\Users\effy\source\repos\Invest4U\Invest4U\bin\Debug\netcoreapp3.1\Invest4U.dll
+C:\Users\effy\source\repos\Invest4U\Invest4U\bin\Debug\netcoreapp3.1\Invest4U.pdb
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.Form1.resources
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.Properties.Resources.resources
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.csproj.GenerateResource.cache
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.AssemblyInfoInputs.cache
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.AssemblyInfo.cs
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.csproj.CoreCompileInputs.cache
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.dll
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.pdb
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.genruntimeconfig.cache
+C:\Users\effy\source\repos\Invest4U\Invest4U\obj\Debug\netcoreapp3.1\Invest4U.csproj.AssemblyReference.cache
